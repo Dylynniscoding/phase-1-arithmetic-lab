@@ -8,7 +8,7 @@ let multiply = num1 * num2;
 
 let random = Math.floor(Math.random() * 10) + 1;
 
-let num 3 = 25;
+let num3 = 25;
 let num4 = 7;
 
 let mod = num3 % num4;
